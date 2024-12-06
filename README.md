@@ -2,7 +2,7 @@
 
 A beautifully crafted iOS app for organizing Secret Santa gift exchanges, featuring a modern interface with smooth animations, festive design elements, and an intuitive user experience.
 
-![App Preview](SecretSanta/Assets.xcassets/SecretSantaAppIconBlue.png)
+![App Preview](SecretSanta/Assets.xcassets/AppIcon.appiconset/SecretSantaAppIconBlue.png)
 
 ## Features ✨
 
