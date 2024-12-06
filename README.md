@@ -108,7 +108,7 @@ We welcome contributions to Secret Nooks! Here's how you can help:
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments 🙏
 
