@@ -38,7 +38,7 @@ A beautifully crafted iOS app for organizing Secret Santa gift exchanges, featur
 
 ## Requirements 📱
 
-- iOS 15.0 or later
+- iOS 16.6 or later
 - Xcode 13.0 or later
 - Swift 5.5 or later
 
