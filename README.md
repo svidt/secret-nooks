@@ -119,7 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Contact 📱
 
-Svidt - [@hellosvidt](https://twitter.com/hellosvidt)
+Twitter: [@hellosvidt](https://twitter.com/hellosvidt)
 
 Project Link: [https://github.com/svidt/secret-nooks](https://github.com/svidt/secret-nooks)
 
