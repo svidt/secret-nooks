@@ -8,7 +8,7 @@ This project was developed as the final project for Harvard's CS50 course, imple
 <a href="url"><img src="SecretSanta/Assets.xcassets/AppIcon.appiconset/SecretSantaAppIconBlue.png" height="200" width="200" ></a>
 <br>
 
-#### Video Demo: [URL HERE]
+#### Video Demo: https://youtube.com/shorts/7MvNrnT-r64
 #### Description:
 
 Secret Nooks is an iOS application built using Swift and SwiftUI that simplifies the organization of Secret Santa gift exchanges. The app provides an intuitive and festive interface for managing participants and automatically matching gift givers with recipients while maintaining the surprise element essential to Secret Santa exchanges.
